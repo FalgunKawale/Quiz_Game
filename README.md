@@ -1,7 +1,7 @@
      Quiz Game
 
-     Python Quiz Master is an interactive and engaging quiz game developed using Python. It's a fun and educational way to test your knowledge of Python programming language and related concepts.
-     Whether you're a beginner eager to learn or an experienced programmer looking to brush up on your skills, Python Quiz Master offers a range of questions suited to various skill levels.
+Python Quiz Master is an interactive and engaging quiz game developed using Python. It's a fun and educational way to test your knowledge of Python programming language and related concepts.
+Whether you're a beginner eager to learn or an experienced programmer looking to brush up on your skills, Python Quiz Master offers a range of questions suited to various skill levels.
 
      Key Features:
 
